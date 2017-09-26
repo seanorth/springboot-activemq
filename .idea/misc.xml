@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/activemq_receiver/pom.xml" />
+        <option value="$PROJECT_DIR$/activemq_producer/pom.xml" />
       </list>
     </option>
   </component>

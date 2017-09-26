@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="activemq_producer" />
         <module name="activemq_receiver" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="activemq_producer" target="1.8" />
       <module name="activemq_receiver" target="1.8" />
     </bytecodeTargetLevel>
   </component>
